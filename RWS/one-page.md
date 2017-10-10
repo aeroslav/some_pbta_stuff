@@ -5,26 +5,20 @@
 ### Оглавление
 
 - [Общие правила](#basics)
-
     - [Подготовка](#setup)
     - [О игре](#about)
     - [Базовые правила](#rules)
-
 - [Ведущий](#mc)
 - [Ходы](#moves)
 - [Буклеты](#playbooks)
-
     - [Бродяга &rarr;](./playbooks/rogue.md)
     - [Воин &rarr;](./playbooks/warrior.md)
     - [Мистик &rarr;](./playbooks/sage.md)
-
 - [Альманах](#almanac)
-
     - [Имена](#names)
     - [Связи](#bonds)
     - [Теги](#tags)
     - [Снаряжение](#items)
-
         - [Некоторое оружие и его ходы](#weapon)
         - [Некоторые виды брони](#armor)
         - [Небольшие чудеса](#wonders)
