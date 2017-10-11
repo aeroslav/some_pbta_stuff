@@ -30,33 +30,26 @@
 
 ### Правила Ведущего
 
+Выполняя обязанности Ведущего, следуй вот этим правилам:
 
-As you go about your duties, follow these rules.
-Asking and answering questions
-When you wonder about something, or want to
-press the players for more detail, ask. If they don’t
-know the answer, they’re entitled to make it up or
-turn the question back to you.
-When a player asks you a question, answer it, or tell
-them the cost or requirements. If you don’t know
-the answer, make it up or consign it to mystery.
-If the rules are telling them to ask, you must answer
-clearly here and now. Players are always entitled to
-know what their senses tell them.
-Making it up
-When you invent an important NPC, monster,
-location or otherwise, follow the steps on page 5.
-You can do this on the fly during play or take your
-time between sessions. You can do it in the open,
-or in secret, as you like. You can ask the players for
-help, if you like.
-Setting difficulty
-When a player asks you how many hits they need
-on a roll, think about how difficult or dangerous the
-situation is and give an appropriate answer:
-•	 2 hits is typical
-•	 3 hits is particularly challenging or dangerous
-•	 4+ hits is heroicly hard or deadly
-If they’re making a saving throw against a monster,
-they need a number of hits equal to the monster’s
-danger level.
+#### Отвечай на вопросы и спрашивай сам
+
+Когда тебя что-то интересует, или когда ты хочешь выжать из игроков чуть больше деталей, спрашивай. Если игрок не знает, что ответить, он может придумать ответ на ходу или вернуть вопрос тебе.
+
+Когда игрок задает тебе вопрос, ответь на него или скажи, какие нужно выполнить условия, чтобы получить ответ. Если не знаешь ответа - выдумай на ходу или сделай тайной.
+
+Если правила говорят игроку спросить тебя, то ты должен дать ясный ответ и не откладывать его. Также, игроки всегда могут спросить, что персонаж видит/слышит/чувствует.
+
+#### Придумывай
+
+Когда ты придумываешь важного NPC, монстра, место или что-то еще, следуй [этим указаниям](#makingitup). Делай это прямо во время игры или в перерывах между встречами. Можешь делать открыто или тайно от игроков, а также совместно с ними, если хочешь.
+
+#### Определение сложности
+
+Когда игрок спрашивает теяб, сколько успехов ему нужно выбросить, прикинь, насколько ситуация опасная или сложная и дай соответствующую оценку:
+
+- 2 успеха - обычная
+- 3 успеха - довольно сложно или опасно
+- 4 успеха - вызов для героя или смертельная опасность
+
+Если игрок делает бросок "Спастись от опасности" против монстра, ему нужно набрать число успехов равное уровню угрозы монстра.
